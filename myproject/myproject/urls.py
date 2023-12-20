@@ -6,3 +6,4 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('odd_or_even/<int:number>', calculator)
 ]
+# this is django exercise
